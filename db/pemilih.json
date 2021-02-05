@@ -1,0 +1,33 @@
+[{
+        "id": 1,
+        "nim": "123456",
+        "nama_mhs": "Parjo",
+        "prodi": "Ilmu hitam",
+        "vote_who": "Sutrisno",
+        "keterangan": "Udah milih"
+    },
+    {
+        "id": 2,
+        "nim": "123321",
+        "nama_mhs": "Relasi",
+        "prodi": "Keilmuan organisasi",
+        "vote_who": "Sutrisno",
+        "keterangan": "Udah milih"
+    },
+    {
+        "id": 3,
+        "nim": "321123",
+        "nama_mhs": "Joshep",
+        "prodi": "Kedokteran Tumbuhan",
+        "vote_who": "",
+        "keterangan": "Ngga milih"
+    },
+    {
+        "id": 4,
+        "nim": "456654",
+        "nama_mhs": "Budi",
+        "prodi": "Pendidikan Guru TK",
+        "vote_who": "Jayson Max",
+        "keterangan": "Udah milih"
+    }
+]
